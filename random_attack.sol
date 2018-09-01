@@ -3,7 +3,7 @@ pragma solidity ^0.4.21;
 contract Attact{
     
     struct attact{
-        uint lastUpdated;
+        uint time;
         uint attact;
     }
     
